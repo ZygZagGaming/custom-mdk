@@ -1,6 +1,6 @@
 [versions]
-neo-userdev = "7.0.184"
-neo = "21.5.65-beta"
+neo-userdev = "7.0.190"
+neo = "21.1.192"
 
 [libraries]
 neo = { group = "net.neoforged", name = "neoforge", version.ref = "neo" }
